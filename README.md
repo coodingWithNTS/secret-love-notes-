@@ -1,4 +1,4 @@
-# secret-love-notes-
+# secret-love-notes
 # Love Encryption ❤️🔒
 
 A beautiful web app for encrypting sweet love messages that only your special someone can decrypt.
